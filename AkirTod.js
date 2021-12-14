@@ -453,8 +453,8 @@ thu = await Rendy.getStatus(`${sender.split('@')[0]}@s.whatsapp.net`, MessageTyp
 menuh = `${ucapanWaktu} 𝐊𝐚𝐤 @${sender.split("@")[0]}`
 Rendy.sendMessage(from, { contentText: `${menuh}`, footerText: `
 *──────" 𝕭𝖔𝖙 𝕴𝖓𝖋𝖔 "──────*
- 👤OWNER : *https://wa.me/6287705048235*
- 💌EMAIL : *tesheroku123@gmail.com*
+ 👤OWNER : *https://wa.me/6281262411188*
+ 💌EMAIL : *surantasembiringkembarens@gmail.com*
  🔎YT : *https://bit.ly/3BpBe1Z*
  🪀GROUP : *https://bit.ly/3Ene2TO*
     ${wib} *𝑾𝒊𝒃*
